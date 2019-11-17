@@ -1,0 +1,11 @@
+# caen
+Host caen
+    Hostname login.engin.umich.edu
+    User kelaaron
+    Compression yes
+
+# gitlab
+Host github
+    Hostname gitlab.com
+    User git
+    IdentityFile ~/.ssh/kelaaron
